@@ -4,21 +4,6 @@ Clopos POS və arxa paneldə gündəlik əməliyyatlar üçün Azərbaycan dilin
 
 **Müstəqil layihədir. Clopos tərəfindən hazırlanmış və ya təsdiqlənmiş rəsmi inteqrasiya deyil.** Skill Clopos-a giriş vermir; hesabda işləmək üçün ayrıca mövcud sessiya və uyğun alətlər lazımdır.
 
-## Bu buraxılış
-
-`0.1.0` — mənbəli ilkin buraxılış, 17 noyabr 2026.
-
-| Mənbə | Əhatə |
-| --- | ---: |
-| Göndərilmiş pleylistlər | 13 |
-| Pleylistlərdə fərqli videolar | 45 |
-| Kanalın Videos + Shorts bölmələri ilə ümumi siyahı | 56 |
-| Əldə edilmiş və nəzərdən keçirilmiş transkriptlər | 40 |
-| Transkripti əldə edilməyən videolar | 16 |
-| Mətni əldə edilmiş rəsmi yardım məqalələri | 114 |
-| İş qaydalarında istinad edilən yardım məqalələri | 60 |
-
-Videoların hamısına baxıldığı iddia edilmir. Bir sıra avtomatik subtitrlər ciddi xətalıdır və bəziləri yalnız musiqini göstərir. Cari iş qaydaları aydın transkript hissələri və uyğun rəsmi yazılı təlimatlara söykənir. Canlı Clopos hesabında əməliyyat sınağı aparılmayıb. [Mənbə qaydası](skills/clopos/references/source-guide.md), [video kataloqu](skills/clopos/references/video-catalog.md), [məhdudiyyətlər](skills/clopos/references/known-gaps.md)
 
 ## Quraşdırma
 

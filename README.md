@@ -60,4 +60,4 @@ Bu layihənin orijinal kodu və təlimatları [MIT](LICENSE) lisenziyasındadır
 
 ---
 
-An Azerbaijani-language Codex skill for Clopos POS workflows, with traceable public sources and explicit evidence gaps. No credentials, private restaurant data, or full third-party transcripts are distributed. This is an independent project, not an official Clopos integration.
+An Azerbaijani-language AI skill for Clopos POS workflows, with traceable public sources and explicit evidence gaps. No credentials, private restaurant data, or full third-party transcripts are distributed. This is an independent project, not an official Clopos integration.

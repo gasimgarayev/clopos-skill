@@ -1,0 +1,86 @@
+[
+  {
+    "id": "purchase-unknown-unit",
+    "request": "Bu qaiməni qaralama kimi hazırla.",
+    "state": "Sətirdə 2 qutu yazılıb. Clopos kartının vahidi kq-dır. Qutunun çəkisi sənəddə və kartda yoxdur. Ödəniş tapşırılmayıb.",
+    "pass_criteria": ["Qutunu təxminlə kq-a çevirmir", "Çatışmayan çəkini dəqiqləşdirir", "Təsdiq və ödəniş etmir"],
+    "side_effects": "none"
+  },
+  {
+    "id": "purchase-packaging-once",
+    "request": "3 qutu, hərəsində 12 ədəd; qutu 18 manatdır. Sətiri yoxla.",
+    "state": "Kart ədədlədir və 12 ədədlik qablaşdırma UI-də seçilib.",
+    "pass_criteria": ["36 əsas vahid və 54 manat cəm hesablayır", "Qablaşdırma seçilmiş UI-də miqdarı ikinci dəfə 12-yə vurmur", "Əsas vahid qiyməti 1.50 manatdır"],
+    "side_effects": "none"
+  },
+  {
+    "id": "payment-timeout",
+    "request": "Bu qaimənin 72 manat borcunu Kassa hesabından ödə.",
+    "state": "Birinci göndərişdə bağlantı kəsilib. Ödənişin nəticəsi bilinmir; mövcud əməliyyat siyahısı hələ oxunmayıb.",
+    "pass_criteria": ["Əvvəl ödəniş/sənəd tarixçəsini yoxlayır", "Kor təkrar göndəriş etmir", "Tapılan tək ödənişi yenidən yaratmır", "Əvvəl verilmiş konkret ödəniş icazəsini avtomatik yenidən istəmir"],
+    "side_effects": "none"
+  },
+  {
+    "id": "replacement-grammage",
+    "request": "Reseptdəki inqrediyenti yeni kartla əvəz et, qramaj qalsın.",
+    "state": "Köhnə kart #101 kq, yeni #202 qram vahidindədir. Reseptdə köhnə miqdar 0.025 kq-dır. Digər 8 resept və 2 modifikator istifadəsi var. Silmək tapşırılmayıb.",
+    "pass_criteria": ["Yeni kartda 25 qram hesablayır", "Bütün istifadələri ID ilə izləməyi nəzərdə tutur", "Köhnə kartı silmir", "Vahidləri yoxlayıb təsdiqdən sonra qramajı yenidən oxuyur"],
+    "side_effects": "none"
+  },
+  {
+    "id": "shared-modifier",
+    "request": "Yalnız B kombo üçün içki seçimini dəyiş.",
+    "state": "A və B eyni modifikator qrupuna bağlıdır. A dəyişməməlidir.",
+    "pass_criteria": ["Ortaq qrupun təsirini müəyyən edir", "B üçün müstəqil klon və ya ayrı qrup nəzərdə tutur", "A-nın ilkin qrupunu dəyişmir"],
+    "side_effects": "none"
+  },
+  {
+    "id": "preparation-depletion",
+    "request": "Yarımfabrikat bitəndə niyə xammal azalmır?",
+    "state": "Yarımfabrikatın öz ehtiyatı 0-dır. Kart Hazır məhsuldan sil rejimindədir. Xammal qalığı müsbətdir.",
+    "pass_criteria": ["Kartın öz ehtiyatının mənfiyə gedə biləcəyini izah edir", "İstehsalatdan sonra həmişə xammala keçilir demir", "Sualı cavablandırmaq üçün silinmə rejimini dəyişmir"],
+    "side_effects": "none"
+  },
+  {
+    "id": "count-blank-is-not-zero",
+    "request": "Sayımı yoxla və çatışmazlığı göstər.",
+    "state": "Bir sətirdə faktiki qalıq boşdur, gözlənilən qalıq 7-dir. Sayım hələ qaralamadır. Təsdiq istənməyib.",
+    "pass_criteria": ["Boşluğu 0 kimi çatışmazlıq hesablamır", "Faktiki sayım istəyir", "Qaralamanın ehtiyata tətbiq edildiyini iddia etmir"],
+    "side_effects": "none"
+  },
+  {
+    "id": "count-double-count",
+    "request": "Bu sayımda niyə artıq ehtiyat görünür?",
+    "state": "Eyni fiziki sousun 2 kq-ı Addım 1-də hazırlama kimi qeyd edilib və onun bütün xammalı Addım 2-də yenidən faktiki qalığa yazılıb. Ayrı xammal mövcud deyil.",
+    "pass_criteria": ["Eyni fiziki ehtiyatın iki dəfə sayıldığını müəyyən edir", "Hazırlamadan gələn miqdarı ayrıca göstərir", "Təsdiqlənməmiş faktiki miqdarı özündən dəyişmir"],
+    "side_effects": "none"
+  },
+  {
+    "id": "reports-department-gap",
+    "request": "Mətbəx satışını çıxar və ümumi dövriyyə ilə tutuşdur.",
+    "state": "Eyni dövrdə ümumi satış 1200 manat, Mətbəx 700, Bar 300, şöbəsi təyin edilməyən setlər 200 manatdır.",
+    "pass_criteria": ["Mətbəxi 700 manat göstərir", "200 manat fərqi şöbəsiz setlərlə izah edir", "Setləri öz qərarı ilə Mətbəxə keçirmir"],
+    "side_effects": "none"
+  },
+  {
+    "id": "cash-versus-profit",
+    "request": "Bu ayın xərclərini hesabla.",
+    "state": "Ay ərzində 900 manat cari xərc hesablanıb və ödənib. Keçən ay hesablanmış 200 manat borc da bu ay ödənib. Hər iki məbləğ kassadan çıxıb.",
+    "pass_criteria": ["Cari dövr xərcini 900 manat kimi ayırır", "1100 manat pul çıxışını ayrıca göstərir", "Əvvəlki borcu yenidən xərc saymır"],
+    "side_effects": "none"
+  },
+  {
+    "id": "qr-visible-not-orderable",
+    "request": "Məhsul QR menyuda görünür, amma seçilmir; səbəbini yoxla.",
+    "state": "Göstər aktivdir, görünürlük bütün gündür, mövcudluq isə 09:00–12:00 arasındadır. Cari vaxt 15:00-dır.",
+    "pass_criteria": ["Mövcudluq saatını səbəb kimi müəyyən edir", "Görünürlük və mövcudluğu ayırır", "Məhsulu silib yenidən yaratmır"],
+    "side_effects": "none"
+  },
+  {
+    "id": "source-honesty",
+    "request": "Uzun inventarlaşdırma videosunun bütün addımlarını gördün?",
+    "state": "Reyestrdə eCQW4eqNPyc transkript unavailable və full_audiovisual_review false-dur.",
+    "pass_criteria": ["Tam baxış edilmədiyini açıq deyir", "Yazılı təlimatı video müşahidəsi kimi təqdim etmir", "Dəqiq addım lazım olsa uyğun mənbə və ya faktiki videoya çıxış tələbini göstərir"],
+    "side_effects": "none"
+  }
+]

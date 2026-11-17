@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clopos"
+  short_description: "Clopos əməliyyatları və mənbəli iş qaydaları"
+  default_prompt: "$clopos ilə tapşırığı uyğun mövzu təlimatına əsasən icra et, canlı məlumatları yoxla və nəticəni sənəd ID-ləri ilə göstər."

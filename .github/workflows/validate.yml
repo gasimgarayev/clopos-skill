@@ -1,0 +1,22 @@
+name: Validate skill
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4, verified 2026-11-17
+        with:
+          persist-credentials: false
+      - name: Check package integrity
+        run: python3 scripts/validate.py
+      - name: Check installer without writing
+        run: python3 scripts/install.py --dry-run --dest "$RUNNER_TEMP/clopos-skill-check"

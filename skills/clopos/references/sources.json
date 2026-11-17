@@ -1,0 +1,2236 @@
+{
+  "schema_version": 1,
+  "retrieved_at": "2026-11-17",
+  "channel": "https://www.youtube.com/@clopos",
+  "scope": "13 supplied playlists and public Videos/Shorts channel feeds",
+  "coverage": {
+    "playlists": 13,
+    "unique_playlist_videos": 45,
+    "channel_videos_feed": 49,
+    "channel_shorts_feed": 7,
+    "unique_videos": 56,
+    "transcripts_retrieved_and_reviewed": 40,
+    "transcripts_unavailable": 16,
+    "full_audiovisual_reviews": 0,
+    "help_articles_text_retrieved": 114,
+    "help_articles_used_in_workflows": 60
+  },
+  "playlists": [
+    {
+      "id": "PL4Hk1vyZv8ITmHS4Hq_-WBkuwUmgqK737",
+      "title": "Geri qaytarılma",
+      "url": "https://www.youtube.com/playlist?list=PL4Hk1vyZv8ITmHS4Hq_-WBkuwUmgqK737",
+      "video_ids": [
+        "60XMBEhDvdo",
+        "Lp3jgPC1L9Q"
+      ]
+    },
+    {
+      "id": "PL4Hk1vyZv8ITX2kpW33dqw9EfOGiuW2Nr",
+      "title": "Terminal",
+      "url": "https://www.youtube.com/playlist?list=PL4Hk1vyZv8ITX2kpW33dqw9EfOGiuW2Nr",
+      "video_ids": [
+        "JmJhrJhjZdQ",
+        "9Kgocpp_tBU",
+        "VZ5I5sMzLnw",
+        "oG1c_emdbAo",
+        "gqHvsODg4Rs",
+        "09g_ynIsC-8",
+        "VKXs0jSLeQc",
+        "0J3ACEOm6MI",
+        "vOsI__dkf5E",
+        "osxFzbOk6Po"
+      ]
+    },
+    {
+      "id": "PL4Hk1vyZv8IRHhusXp2AHo4Tf8mLt9Gqz",
+      "title": "Ayarlar",
+      "url": "https://www.youtube.com/playlist?list=PL4Hk1vyZv8IRHhusXp2AHo4Tf8mLt9Gqz",
+      "video_ids": [
+        "o5n88fU459E",
+        "gda1Rmu7344"
+      ]
+    },
+    {
+      "id": "PL4Hk1vyZv8IQ5ZBjig1I0OOHeKsOjZSlo",
+      "title": "Satış",
+      "url": "https://www.youtube.com/playlist?list=PL4Hk1vyZv8IQ5ZBjig1I0OOHeKsOjZSlo",
+      "video_ids": [
+        "yuoBQK6NQjI",
+        "2A3vOWhqh9M",
+        "7BlJF7MFD2Q"
+      ]
+    },
+    {
+      "id": "PL4Hk1vyZv8ISB3Q_ELcrgoZF1Wt35dLNa",
+      "title": "Printer",
+      "url": "https://www.youtube.com/playlist?list=PL4Hk1vyZv8ISB3Q_ELcrgoZF1Wt35dLNa",
+      "video_ids": [
+        "95dADA5zFig",
+        "WBXw0V4MN1Q",
+        "BsMQoFOIFXo"
+      ]
+    },
+    {
+      "id": "PL4Hk1vyZv8IS4_B2THfj5r7VUYmL7kdll",
+      "title": "Inventar",
+      "url": "https://www.youtube.com/playlist?list=PL4Hk1vyZv8IS4_B2THfj5r7VUYmL7kdll",
+      "video_ids": [
+        "P3jk7WFV0m4",
+        "cGv6GQBnMK8",
+        "qSJwV75v3u4",
+        "jReplNu7yrw",
+        "0awFMuPZHNo",
+        "eCQW4eqNPyc"
+      ]
+    },
+    {
+      "id": "PL4Hk1vyZv8ITcNn74QufYa422kh9ifrQu",
+      "title": "Maliyə",
+      "url": "https://www.youtube.com/playlist?list=PL4Hk1vyZv8ITcNn74QufYa422kh9ifrQu",
+      "video_ids": [
+        "GNPbBSEWCGw",
+        "NsX_CTR_eq0"
+      ]
+    },
+    {
+      "id": "PL4Hk1vyZv8IRGE0-4ztkuAI5CzoVQOKb5",
+      "title": "E-kassa",
+      "url": "https://www.youtube.com/playlist?list=PL4Hk1vyZv8IRGE0-4ztkuAI5CzoVQOKb5",
+      "video_ids": [
+        "Oq8BPi8ST9c",
+        "o1cHlmkR3oQ",
+        "oOZHZRqlccE"
+      ]
+    },
+    {
+      "id": "PL4Hk1vyZv8ISjbKUVD2cMcaNBu1K_-gNk",
+      "title": "E-menu",
+      "url": "https://www.youtube.com/playlist?list=PL4Hk1vyZv8ISjbKUVD2cMcaNBu1K_-gNk",
+      "video_ids": [
+        "AQy_6X_A9EU",
+        "ZN3BC60j2rg"
+      ]
+    },
+    {
+      "id": "PL4Hk1vyZv8IRBH9kMOPj7xs6NRsAZaEMv",
+      "title": "Menu",
+      "url": "https://www.youtube.com/playlist?list=PL4Hk1vyZv8IRBH9kMOPj7xs6NRsAZaEMv",
+      "video_ids": [
+        "uGLLXuzD_wg",
+        "jUmQzRo92iY",
+        "Lli52tYfGUQ",
+        "DtYgi-eYDuw",
+        "BC0bKhUtUY0",
+        "JxenloukEpw",
+        "LDb_3SzmiPg"
+      ]
+    },
+    {
+      "id": "PL4Hk1vyZv8ITxQ9B8NO2F31-ZP5n-_h8E",
+      "title": "İcazələr",
+      "url": "https://www.youtube.com/playlist?list=PL4Hk1vyZv8ITxQ9B8NO2F31-ZP5n-_h8E",
+      "video_ids": [
+        "IWcj52_QUaU"
+      ]
+    },
+    {
+      "id": "PL4Hk1vyZv8IRffFewQTdSxut_vZlAb40M",
+      "title": "Statistika",
+      "url": "https://www.youtube.com/playlist?list=PL4Hk1vyZv8IRffFewQTdSxut_vZlAb40M",
+      "video_ids": [
+        "aFIpKgeXFPI"
+      ]
+    },
+    {
+      "id": "PL4Hk1vyZv8ITkia4GnIWkgolW0HTclrBE",
+      "title": "Modullar",
+      "url": "https://www.youtube.com/playlist?list=PL4Hk1vyZv8ITkia4GnIWkgolW0HTclrBE",
+      "video_ids": [
+        "-QZ9LAXuYFg",
+        "TDrwpODuV2Y",
+        "UGHiIQa1uBE",
+        "vOsI__dkf5E"
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "id": "cGv6GQBnMK8",
+      "title": "Anbar konfiqurasiyası - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=cGv6GQBnMK8",
+      "duration": "1:25",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IS4_B2THfj5r7VUYmL7kdll"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "0awFMuPZHNo",
+      "title": "Anbar və mal material uçotunun düzgün təşkili - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=0awFMuPZHNo",
+      "duration": "25:19",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IS4_B2THfj5r7VUYmL7kdll"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "unavailable",
+      "caption_language_code": null,
+      "caption_type": null,
+      "quality": "not_available",
+      "error_type": "TranscriptsDisabled",
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "P3jk7WFV0m4",
+      "title": "Anbar yaratmaq - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=P3jk7WFV0m4",
+      "duration": "1:25",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IS4_B2THfj5r7VUYmL7kdll"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "m4JvZgo4bbU",
+      "title": "Arxa panelə daxil olmaq - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=m4JvZgo4bbU",
+      "duration": null,
+      "duration_seconds": 44,
+      "playlist_ids": [],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "unavailable",
+      "caption_language_code": null,
+      "caption_type": null,
+      "quality": "not_available",
+      "error_type": "TranscriptsDisabled",
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "lqbk9eCH_nc",
+      "title": "Axra panel Şifrəsinin bərpası- Clopos POS",
+      "url": "https://www.youtube.com/watch?v=lqbk9eCH_nc",
+      "duration": null,
+      "duration_seconds": 66,
+      "playlist_ids": [],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "Oq8BPi8ST9c",
+      "title": "Azsmart kassa ayarları - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=Oq8BPi8ST9c",
+      "duration": "0:53",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IRGE0-4ztkuAI5CzoVQOKb5"
+      ],
+      "channel_feeds": [
+        "shorts"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "JxenloukEpw",
+      "title": "Biznes lançın (modifikatorlu menyunun) yaradılması - I hissə Clopos POS",
+      "url": "https://www.youtube.com/watch?v=JxenloukEpw",
+      "duration": "27:41",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IRBH9kMOPj7xs6NRsAZaEMv"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "unavailable",
+      "caption_language_code": null,
+      "caption_type": null,
+      "quality": "not_available",
+      "error_type": "TranscriptsDisabled",
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "uyCmIPFRM7Y",
+      "title": "Clopos HQ",
+      "url": "https://www.youtube.com/watch?v=uyCmIPFRM7Y",
+      "duration": null,
+      "duration_seconds": 50,
+      "playlist_ids": [],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "unavailable",
+      "caption_language_code": null,
+      "caption_type": null,
+      "quality": "not_available",
+      "error_type": "TranscriptsDisabled",
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "kJQKKrrANDs",
+      "title": "Clopos Manager - Bildirişlər",
+      "url": "https://www.youtube.com/watch?v=kJQKKrrANDs",
+      "duration": null,
+      "duration_seconds": null,
+      "playlist_ids": [],
+      "channel_feeds": [
+        "shorts"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "en",
+      "caption_type": "automatic",
+      "quality": "music_or_non_instructional_text",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "wKYLtj4ytAQ",
+      "title": "Clopos Müştəri Ekranı",
+      "url": "https://www.youtube.com/watch?v=wKYLtj4ytAQ",
+      "duration": null,
+      "duration_seconds": null,
+      "playlist_ids": [],
+      "channel_feeds": [
+        "shorts"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "az",
+      "caption_type": "automatic",
+      "quality": "promotional_not_procedural",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "ILOFN6Cnzhk",
+      "title": "Clopos POS - Promo Video",
+      "url": "https://www.youtube.com/watch?v=ILOFN6Cnzhk",
+      "duration": null,
+      "duration_seconds": 72,
+      "playlist_ids": [],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "promotional_not_procedural",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "9Kgocpp_tBU",
+      "title": "Hesabat yaratmaq - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=9Kgocpp_tBU",
+      "duration": "0:53",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ITX2kpW33dqw9EfOGiuW2Nr"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "GNPbBSEWCGw",
+      "title": "Hesablar - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=GNPbBSEWCGw",
+      "duration": "1:13",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ITcNn74QufYa422kh9ifrQu"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "gqHvsODg4Rs",
+      "title": "Hesabı (çeki) bölmək - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=gqHvsODg4Rs",
+      "duration": "4:51",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ITX2kpW33dqw9EfOGiuW2Nr"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "unavailable",
+      "caption_language_code": null,
+      "caption_type": null,
+      "quality": "not_available",
+      "error_type": "TranscriptsDisabled",
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "LDb_3SzmiPg",
+      "title": "İkram edilməsi - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=LDb_3SzmiPg",
+      "duration": "1:22",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IRBH9kMOPj7xs6NRsAZaEMv"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "unavailable",
+      "caption_language_code": null,
+      "caption_type": null,
+      "quality": "not_available",
+      "error_type": "TranscriptsDisabled",
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "Lli52tYfGUQ",
+      "title": "İnqredient - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=Lli52tYfGUQ",
+      "duration": "2:02",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IRBH9kMOPj7xs6NRsAZaEMv"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "eCQW4eqNPyc",
+      "title": "İnventarlaşdirma - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=eCQW4eqNPyc",
+      "duration": "39:01",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IS4_B2THfj5r7VUYmL7kdll"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "unavailable",
+      "caption_language_code": null,
+      "caption_type": null,
+      "quality": "not_available",
+      "error_type": "TranscriptsDisabled",
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "WBXw0V4MN1Q",
+      "title": "LAN Kabel ilə qoşulmuş Printer sazlaması - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=WBXw0V4MN1Q",
+      "duration": "5:11",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ISB3Q_ELcrgoZF1Wt35dLNa"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "BC0bKhUtUY0",
+      "title": "Modifikator yaratmaq - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=BC0bKhUtUY0",
+      "duration": "5:59",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IRBH9kMOPj7xs6NRsAZaEMv"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "vOsI__dkf5E",
+      "title": "Müştəri ekranı sazlanması - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=vOsI__dkf5E",
+      "duration": "1:33",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ITX2kpW33dqw9EfOGiuW2Nr",
+        "PL4Hk1vyZv8ITkia4GnIWkgolW0HTclrBE"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "az",
+      "caption_type": "automatic",
+      "quality": "automatic_az_requires_verification",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "VZ5I5sMzLnw",
+      "title": "Müştəri yaratmaq, müştəri balansına mədaxil və məxaric - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=VZ5I5sMzLnw",
+      "duration": "1:21",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ITX2kpW33dqw9EfOGiuW2Nr"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "ro",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "uGLLXuzD_wg",
+      "title": "Məhsul əlavə etmək - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=uGLLXuzD_wg",
+      "duration": "2:14",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IRBH9kMOPj7xs6NRsAZaEMv"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "o1cHlmkR3oQ",
+      "title": "Omnitech Inteqrasiya - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=o1cHlmkR3oQ",
+      "duration": "3:15",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IRGE0-4ztkuAI5CzoVQOKb5"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "unavailable",
+      "caption_language_code": null,
+      "caption_type": null,
+      "quality": "not_available",
+      "error_type": "TranscriptsDisabled",
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "oOZHZRqlccE",
+      "title": "Omnitech Vergi kassasi IP adresə baxmaq - CLOPOS POS",
+      "url": "https://www.youtube.com/watch?v=oOZHZRqlccE",
+      "duration": "0:11",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IRGE0-4ztkuAI5CzoVQOKb5"
+      ],
+      "channel_feeds": [
+        "shorts"
+      ],
+      "transcript_status": "unavailable",
+      "caption_language_code": null,
+      "caption_type": null,
+      "quality": "not_available",
+      "error_type": "TranscriptsDisabled",
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "BsMQoFOIFXo",
+      "title": "Pos Printer Self test çıxartmaq \\ Shorts",
+      "url": "https://www.youtube.com/watch?v=BsMQoFOIFXo",
+      "duration": "0:13",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ISB3Q_ELcrgoZF1Wt35dLNa"
+      ],
+      "channel_feeds": [
+        "shorts"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "UGHiIQa1uBE",
+      "title": "Qiymət Cədvəli - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=UGHiIQa1uBE",
+      "duration": "2:45",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ITkia4GnIWkgolW0HTclrBE"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "AQy_6X_A9EU",
+      "title": "QR Menu - Clopos Pos",
+      "url": "https://www.youtube.com/watch?v=AQy_6X_A9EU",
+      "duration": "0:45",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ISjbKUVD2cMcaNBu1K_-gNk"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "en",
+      "caption_type": "automatic",
+      "quality": "music_or_non_instructional_text",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "ZN3BC60j2rg",
+      "title": "QR Menu aktiv etmə və ayarlama - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=ZN3BC60j2rg",
+      "duration": "9:10",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ISjbKUVD2cMcaNBu1K_-gNk"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "-QZ9LAXuYFg",
+      "title": "Review modulu - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=-QZ9LAXuYFg",
+      "duration": "1:01",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ITkia4GnIWkgolW0HTclrBE"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "60XMBEhDvdo",
+      "title": "Satılan məhsulların geri qaytarılması - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=60XMBEhDvdo",
+      "duration": "3:02",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ITmHS4Hq_-WBkuwUmgqK737"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "7BlJF7MFD2Q",
+      "title": "Satış tipi yaratmaq - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=7BlJF7MFD2Q",
+      "duration": "1:43",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IQ5ZBjig1I0OOHeKsOjZSlo"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "0J3ACEOm6MI",
+      "title": "Satışı bloklanmış məhsullar - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=0J3ACEOm6MI",
+      "duration": "1:58",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ITX2kpW33dqw9EfOGiuW2Nr"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "unavailable",
+      "caption_language_code": null,
+      "caption_type": null,
+      "quality": "not_available",
+      "error_type": "TranscriptsDisabled",
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "o5n88fU459E",
+      "title": "Silinmə etiketləri - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=o5n88fU459E",
+      "duration": "0:58",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IRHhusXp2AHo4Tf8mLt9Gqz"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "en",
+      "caption_type": "automatic",
+      "quality": "music_or_non_instructional_text",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "aFIpKgeXFPI",
+      "title": "Statistikalar - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=aFIpKgeXFPI",
+      "duration": "1:30",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IRffFewQTdSxut_vZlAb40M"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "ScrC9gkbveo",
+      "title": "Terminal Sevimli List - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=ScrC9gkbveo",
+      "duration": null,
+      "duration_seconds": 53,
+      "playlist_ids": [],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "unavailable",
+      "caption_language_code": null,
+      "caption_type": null,
+      "quality": "not_available",
+      "error_type": "TranscriptsDisabled",
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "VKXs0jSLeQc",
+      "title": "Terminal Ödənişin bölünməsi - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=VKXs0jSLeQc",
+      "duration": "1:26",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ITX2kpW33dqw9EfOGiuW2Nr"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "a-1eOXP5Wmo",
+      "title": "Terminal üzərindən məhsul əlavə etmək, məhsulun qiymətini dəyişmək, stop  list və Sevimli məhsullar",
+      "url": "https://www.youtube.com/watch?v=a-1eOXP5Wmo",
+      "duration": null,
+      "duration_seconds": 141,
+      "playlist_ids": [],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "JmJhrJhjZdQ",
+      "title": "Terminalda əməliyyat yaratmaq - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=JmJhrJhjZdQ",
+      "duration": "0:54",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ITX2kpW33dqw9EfOGiuW2Nr"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "09g_ynIsC-8",
+      "title": "Terminalın yüklənməsi və  giriş - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=09g_ynIsC-8",
+      "duration": "9:05",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ITX2kpW33dqw9EfOGiuW2Nr"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "unavailable",
+      "caption_language_code": null,
+      "caption_type": null,
+      "quality": "not_available",
+      "error_type": "TranscriptsDisabled",
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "jUmQzRo92iY",
+      "title": "Tex.Karta əlavə etmək - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=jUmQzRo92iY",
+      "duration": "1:22",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IRBH9kMOPj7xs6NRsAZaEMv"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "jReplNu7yrw",
+      "title": "Tullantı yaratmaq - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=jReplNu7yrw",
+      "duration": "1:11",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IS4_B2THfj5r7VUYmL7kdll"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "qSJwV75v3u4",
+      "title": "Tədarük yaratmaq - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=qSJwV75v3u4",
+      "duration": "1:50",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IS4_B2THfj5r7VUYmL7kdll"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "Lp3jgPC1L9Q",
+      "title": "Tədarükün geri qaytarılması - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=Lp3jgPC1L9Q",
+      "duration": "1:07",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ITmHS4Hq_-WBkuwUmgqK737"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "95dADA5zFig",
+      "title": "USB Kabel ilə qoşulmuş Printer sazlaması - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=95dADA5zFig",
+      "duration": "1:43",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ISB3Q_ELcrgoZF1Wt35dLNa"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "TDrwpODuV2Y",
+      "title": "Veb kassa (Arxa paneldən satış) modulu- Clopos POS",
+      "url": "https://www.youtube.com/watch?v=TDrwpODuV2Y",
+      "duration": "8:53",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ITkia4GnIWkgolW0HTclrBE"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "IWcj52_QUaU",
+      "title": "Vəzifələr və İcazələr - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=IWcj52_QUaU",
+      "duration": "2:37",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ITxQ9B8NO2F31-ZP5n-_h8E"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "osxFzbOk6Po",
+      "title": "Waiter - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=osxFzbOk6Po",
+      "duration": "3:02",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ITX2kpW33dqw9EfOGiuW2Nr"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "az",
+      "caption_type": "automatic",
+      "quality": "automatic_az_requires_verification",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "ZbryZjPgLZE",
+      "title": "Windows 10 ekran klaviaturasının aktiv edilməsi -  Clopos POS",
+      "url": "https://www.youtube.com/watch?v=ZbryZjPgLZE",
+      "duration": null,
+      "duration_seconds": null,
+      "playlist_ids": [],
+      "channel_feeds": [
+        "shorts"
+      ],
+      "transcript_status": "unavailable",
+      "caption_language_code": null,
+      "caption_type": null,
+      "quality": "not_available",
+      "error_type": "TranscriptsDisabled",
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "7OHAjbfRsIg",
+      "title": "Windows 11ekran klaviaturasının aktiv edilməsi -  Clopos POS",
+      "url": "https://www.youtube.com/watch?v=7OHAjbfRsIg",
+      "duration": null,
+      "duration_seconds": null,
+      "playlist_ids": [],
+      "channel_feeds": [
+        "shorts"
+      ],
+      "transcript_status": "unavailable",
+      "caption_language_code": null,
+      "caption_type": null,
+      "quality": "not_available",
+      "error_type": "TranscriptsDisabled",
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "DtYgi-eYDuw",
+      "title": "Yarımfabrikat - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=DtYgi-eYDuw",
+      "duration": "2:36",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IRBH9kMOPj7xs6NRsAZaEMv"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "REsNm4Qj1gI",
+      "title": "Yeni \"Clopos Manager\" tətbiqi - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=REsNm4Qj1gI",
+      "duration": null,
+      "duration_seconds": 157,
+      "playlist_ids": [],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "unavailable",
+      "caption_language_code": null,
+      "caption_type": null,
+      "quality": "not_available",
+      "error_type": "TranscriptsDisabled",
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "gda1Rmu7344",
+      "title": "Zal və Masa yaratmaq - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=gda1Rmu7344",
+      "duration": "3:12",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IRHhusXp2AHo4Tf8mLt9Gqz"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "unavailable",
+      "caption_language_code": null,
+      "caption_type": null,
+      "quality": "not_available",
+      "error_type": "TranscriptsDisabled",
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "yuoBQK6NQjI",
+      "title": "Çeklər - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=yuoBQK6NQjI",
+      "duration": "2:20",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IQ5ZBjig1I0OOHeKsOjZSlo"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "2A3vOWhqh9M",
+      "title": "Ödəmə üsulları - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=2A3vOWhqh9M",
+      "duration": "1:34",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8IQ5ZBjig1I0OOHeKsOjZSlo"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "ar",
+      "caption_type": "automatic",
+      "quality": "music_or_non_instructional_text",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "oG1c_emdbAo",
+      "title": "Ödənişsiz çek bağlamaq - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=oG1c_emdbAo",
+      "duration": "0:38",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ITX2kpW33dqw9EfOGiuW2Nr"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    },
+    {
+      "id": "NsX_CTR_eq0",
+      "title": "Əməliyyat yaratmaq - Clopos POS",
+      "url": "https://www.youtube.com/watch?v=NsX_CTR_eq0",
+      "duration": "1:14",
+      "duration_seconds": null,
+      "playlist_ids": [
+        "PL4Hk1vyZv8ITcNn74QufYa422kh9ifrQu"
+      ],
+      "channel_feeds": [
+        "videos"
+      ],
+      "transcript_status": "retrieved_and_reviewed",
+      "caption_language_code": "tr",
+      "caption_type": "automatic",
+      "quality": "automatic_language_mismatch_or_recognition_errors",
+      "error_type": null,
+      "full_audiovisual_review": false
+    }
+  ],
+  "help_articles": [
+    {
+      "title": "Anbar konfiqurasiyaları",
+      "url": "https://az.help.clopos.com/az/article/anbar-konfiqurasiyalari-1mwcj5w/",
+      "text_retrieved": true,
+      "site_updated_date": "14/01/2026",
+      "used_in": [
+        "inventory.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Anbar yaratmaq",
+      "url": "https://az.help.clopos.com/az/article/anbar-yaratmaq-kzq3ah/",
+      "text_retrieved": true,
+      "site_updated_date": "14/01/2026",
+      "used_in": [
+        "inventory.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Bloklanmış məhsullar",
+      "url": "https://az.help.clopos.com/az/article/bloklanmis-mehsullar-11ev6xo/",
+      "text_retrieved": true,
+      "site_updated_date": "24/10/2025",
+      "used_in": [
+        "terminal-sales.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Brend məlumatlarının təmizlənməsi",
+      "url": "https://az.help.clopos.com/az/article/brend-melumatlarinin-temizlenmesi-fene3t/",
+      "text_retrieved": true,
+      "site_updated_date": "03/09/2026",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Çek Printer sazlaması",
+      "url": "https://az.help.clopos.com/az/article/cek-printer-sazlamasi-rb7qwp/",
+      "text_retrieved": true,
+      "site_updated_date": "18/12/2025",
+      "used_in": [
+        "setup-modules.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Çeki böl",
+      "url": "https://az.help.clopos.com/az/article/ceki-bol-17mzben/",
+      "text_retrieved": true,
+      "site_updated_date": "20/10/2025",
+      "used_in": [
+        "terminal-sales.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Clopos Müştəri Ekranı",
+      "url": "https://az.help.clopos.com/az/article/clopos-musteri-ekrani-lm2thy/",
+      "text_retrieved": true,
+      "site_updated_date": "10/08/2026",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Clopos tablet necə sazlanılır?",
+      "url": "https://az.help.clopos.com/az/article/clopos-tablet-nece-sazlanilir-bcprp3/",
+      "text_retrieved": true,
+      "site_updated_date": "19/05/2026",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Clopos terminalını yükləmək",
+      "url": "https://az.help.clopos.com/az/article/clopos-terminalini-yuklemek-xvxkm4/",
+      "text_retrieved": true,
+      "site_updated_date": "21/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Dəyərləndirmə",
+      "url": "https://az.help.clopos.com/az/article/deyerlendirme-1it0ep9/",
+      "text_retrieved": true,
+      "site_updated_date": "20/10/2025",
+      "used_in": [
+        "setup-modules.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "🖥️ E-Kassa Xətaları və Onların Həlli",
+      "url": "https://az.help.clopos.com/az/article/e-kassa-xetalari-ve-onlarin-helli-17lunsh/",
+      "text_retrieved": true,
+      "site_updated_date": "12/05/2026",
+      "used_in": [
+        "setup-modules.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Ehtiyat",
+      "url": "https://az.help.clopos.com/az/article/ehtiyat-axb282/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [
+        "inventory.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Əlavə xidmət haqqının tərtib edilməsi",
+      "url": "https://az.help.clopos.com/az/article/elave-xidmet-haqqinin-tertib-edilmesi-1lmt7li/",
+      "text_retrieved": true,
+      "site_updated_date": "20/01/2026",
+      "used_in": [
+        "setup-modules.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Əməkdaşlara əmək haqqı ödəmək",
+      "url": "https://az.help.clopos.com/az/article/emekdaslara-emek-haqqi-odemek-14sot7q/",
+      "text_retrieved": true,
+      "site_updated_date": "17/10/2025",
+      "used_in": [
+        "finance.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Əməkdaşların əlavə edilməsi",
+      "url": "https://az.help.clopos.com/az/article/emekdaslarin-elave-edilmesi-3tq3pp/",
+      "text_retrieved": true,
+      "site_updated_date": "17/10/2025",
+      "used_in": [
+        "finance.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Fərqli dillərdə QR Menyu",
+      "url": "https://az.help.clopos.com/az/article/ferqli-dillerde-qr-menyu-trgfyj/",
+      "text_retrieved": true,
+      "site_updated_date": "14/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Hazır məhsul əlavə etmək",
+      "url": "https://az.help.clopos.com/az/article/hazir-mehsul-elave-etmek-puae45/",
+      "text_retrieved": true,
+      "site_updated_date": "03/12/2025",
+      "used_in": [
+        "menu-recipes.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Hazır məhsullara seçimlərin tətbiqi",
+      "url": "https://az.help.clopos.com/az/article/hazir-mehsullara-secimlerin-tetbiqi-czxhqv/",
+      "text_retrieved": true,
+      "site_updated_date": "03/12/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Hərəkət hesabatları",
+      "url": "https://az.help.clopos.com/az/article/hereket-hesabatlari-1431338/",
+      "text_retrieved": true,
+      "site_updated_date": "18/12/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Hesab məlumatlarının dəyişdirilməsi",
+      "url": "https://az.help.clopos.com/az/article/hesab-melumatlarinin-deyisdirilmesi-17kvc2v/",
+      "text_retrieved": true,
+      "site_updated_date": "17/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "İkram",
+      "url": "https://az.help.clopos.com/az/article/ikram-1t69two/",
+      "text_retrieved": true,
+      "site_updated_date": "20/10/2025",
+      "used_in": [
+        "terminal-sales.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "İnqrediyent",
+      "url": "https://az.help.clopos.com/az/article/inqrediyent-fztr1c/",
+      "text_retrieved": true,
+      "site_updated_date": "03/12/2025",
+      "used_in": [
+        "menu-recipes.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "İnqrediyentlərin  import edilməsi",
+      "url": "https://az.help.clopos.com/az/article/inqrediyentlerin-import-edilmesi-z1d9jp/",
+      "text_retrieved": true,
+      "site_updated_date": "10/02/2026",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "İnventarlaşdırma",
+      "url": "https://az.help.clopos.com/az/article/inventarlasdirma-14dblgq/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [
+        "inventory.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "İnventarlaşdırmanın import edilməsi",
+      "url": "https://az.help.clopos.com/az/article/inventarlasdirmanin-import-edilmesi-tqw8sv/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [
+        "inventory.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "İstehsalat",
+      "url": "https://az.help.clopos.com/az/article/istehsalat-1ltvw4d/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [
+        "inventory.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Kassa növbələri: Nağd axınını nəzarət altında saxlamaq",
+      "url": "https://az.help.clopos.com/az/article/kassa-novbeleri-nagd-axinini-nezaret-altinda-saxlamaq-iikve5/",
+      "text_retrieved": true,
+      "site_updated_date": "20/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Kassanın açılış saatı",
+      "url": "https://az.help.clopos.com/az/article/kassanin-acilis-saati-ssnvjy/",
+      "text_retrieved": true,
+      "site_updated_date": "17/10/2025",
+      "used_in": [
+        "reports.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Kateqoriya",
+      "url": "https://az.help.clopos.com/az/article/kateqoriya-7t97aj/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Köçürmə",
+      "url": "https://az.help.clopos.com/az/article/kocurme-792zr/",
+      "text_retrieved": true,
+      "site_updated_date": "17/10/2025",
+      "used_in": [
+        "inventory.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Köçürmə əməliyyatının import edilməsi",
+      "url": "https://az.help.clopos.com/az/article/kocurme-emeliyyatinin-import-edilmesi-12xcauz/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Lan kabel ilə qoşulan çek printerlər",
+      "url": "https://az.help.clopos.com/az/article/lan-kabel-ile-qosulan-cek-printerler-1ak8s5q/",
+      "text_retrieved": true,
+      "site_updated_date": "20/10/2025",
+      "used_in": [
+        "setup-modules.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Maliyyə Hesabları",
+      "url": "https://az.help.clopos.com/az/article/maliyye-hesablari-1sbk631/",
+      "text_retrieved": true,
+      "site_updated_date": "17/10/2025",
+      "used_in": [
+        "finance.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Maliyyə kateqoriyası",
+      "url": "https://az.help.clopos.com/az/article/maliyye-kateqoriyasi-1ajxncs/",
+      "text_retrieved": true,
+      "site_updated_date": "17/10/2025",
+      "used_in": [
+        "finance.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Məhsul hərəkətləri",
+      "url": "https://az.help.clopos.com/az/article/mehsul-hereketleri-3ytx7/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [
+        "inventory.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Məhsula xidmət haqqının hesablanmaması",
+      "url": "https://az.help.clopos.com/az/article/mehsula-xidmet-haqqinin-hesablanmamasi-1iz6mz2/",
+      "text_retrieved": true,
+      "site_updated_date": "21/10/2025",
+      "used_in": [
+        "setup-modules.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Məhsulların toplu şəkildə qiymətlərinin yenilənməsi",
+      "url": "https://az.help.clopos.com/az/article/mehsullarin-toplu-sekilde-qiymetlerinin-yenilenmesi-ttqnfi/",
+      "text_retrieved": true,
+      "site_updated_date": "17/04/2026",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Məhsulu filiala görə aktiv/deaktiv etmək",
+      "url": "https://az.help.clopos.com/az/article/mehsulu-filiala-gore-aktivdeaktiv-etmek-yn2s1a/",
+      "text_retrieved": true,
+      "site_updated_date": "21/11/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Məhsulun qiymətinin dəyişdirilməsi",
+      "url": "https://az.help.clopos.com/az/article/mehsulun-qiymetinin-deyisdirilmesi-l80lzf/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Məhsulun silinməməsinin 4 səbəbi",
+      "url": "https://az.help.clopos.com/az/article/mehsulun-silinmemesinin-4-sebebi-z2n9t5/",
+      "text_retrieved": true,
+      "site_updated_date": "21/10/2025",
+      "used_in": [
+        "menu-recipes.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Məlumatların Eksport edilməsi",
+      "url": "https://az.help.clopos.com/az/article/melumatlarin-eksport-edilmesi-157r4ey/",
+      "text_retrieved": true,
+      "site_updated_date": "21/10/2025",
+      "used_in": [
+        "reports.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Mənfəətin hesablanması",
+      "url": "https://az.help.clopos.com/az/article/menfeetin-hesablanmasi-18zwhbu/",
+      "text_retrieved": true,
+      "site_updated_date": "17/10/2025",
+      "used_in": [
+        "finance.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Menyu Excel import nümunələri",
+      "url": "https://az.help.clopos.com/az/article/menyu-excel-import-numuneleri-191rvtu/",
+      "text_retrieved": true,
+      "site_updated_date": "14/10/2025",
+      "used_in": [
+        "menu-recipes.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Menyu quruluşu",
+      "url": "https://az.help.clopos.com/az/article/menyu-qurulusu-8vg93x/",
+      "text_retrieved": true,
+      "site_updated_date": "19/12/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Menyunu tərkibli şəkildə yükləmək",
+      "url": "https://az.help.clopos.com/az/article/menyunu-terkibli-sekilde-yuklemek-5xjshh/",
+      "text_retrieved": true,
+      "site_updated_date": "14/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Menyunun Excel ilə import edilməsi",
+      "url": "https://az.help.clopos.com/az/article/menyunun-excel-ile-import-edilmesi-s77uem/",
+      "text_retrieved": true,
+      "site_updated_date": "14/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Modifikator əlavə edilməsi",
+      "url": "https://az.help.clopos.com/az/article/modifikator-elave-edilmesi-15cdh3h/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [
+        "menu-recipes.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Müştəri balansı",
+      "url": "https://az.help.clopos.com/az/article/musteri-balansi-b1fxsy/",
+      "text_retrieved": true,
+      "site_updated_date": "20/10/2025",
+      "used_in": [
+        "terminal-sales.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Müştəri ekranı🖥️",
+      "url": "https://az.help.clopos.com/az/article/musteri-ekrani-vun7g3/",
+      "text_retrieved": true,
+      "site_updated_date": "18/05/2026",
+      "used_in": [
+        "setup-modules.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Müştəri yaratmaq",
+      "url": "https://az.help.clopos.com/az/article/musteri-yaratmaq-1ooladv/",
+      "text_retrieved": true,
+      "site_updated_date": "20/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Ödəmə üsulu",
+      "url": "https://az.help.clopos.com/az/article/odeme-usulu-17mte4h/",
+      "text_retrieved": true,
+      "site_updated_date": "17/10/2025",
+      "used_in": [
+        "finance.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Personal Yeməyi",
+      "url": "https://az.help.clopos.com/az/article/personal-yemeyi-1g9cazq/",
+      "text_retrieved": true,
+      "site_updated_date": "21/10/2025",
+      "used_in": [
+        "inventory.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "🖨️ Printer Problemlərinin Həlli",
+      "url": "https://az.help.clopos.com/az/article/printer-problemlerinin-helli-7vd028/",
+      "text_retrieved": true,
+      "site_updated_date": "16/03/2026",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Qablaşdırma",
+      "url": "https://az.help.clopos.com/az/article/qablasdirma-14juc4a/",
+      "text_retrieved": true,
+      "site_updated_date": "17/10/2025",
+      "used_in": [
+        "purchases.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Qiymət cədvəlləri: Fərqli qiymət strategiyaları yaratmaq",
+      "url": "https://az.help.clopos.com/az/article/qiymet-cedvelleri-ferqli-qiymet-strategiyalari-yaratmaq-1ovx44r/",
+      "text_retrieved": true,
+      "site_updated_date": "20/10/2025",
+      "used_in": [
+        "setup-modules.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Qiymət cədvəllərinin Excel ilə import edilməsi",
+      "url": "https://az.help.clopos.com/az/article/qiymet-cedvellerinin-excel-ile-import-edilmesi-1tlzp25/",
+      "text_retrieved": true,
+      "site_updated_date": "01/07/2026",
+      "used_in": [
+        "setup-modules.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "QR Kodla Masadan Sifariş",
+      "url": "https://az.help.clopos.com/az/article/qr-kodla-masadan-sifaris-1koqat6/",
+      "text_retrieved": true,
+      "site_updated_date": "17/02/2026",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "QR Menyu Məhsullar",
+      "url": "https://az.help.clopos.com/az/article/qr-menyu-mehsullar-df9imv/",
+      "text_retrieved": true,
+      "site_updated_date": "21/10/2025",
+      "used_in": [
+        "setup-modules.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "QR Menyu- Menyu quruluşu",
+      "url": "https://az.help.clopos.com/az/article/qr-menyu-menyu-qurulusu-1767tmb/",
+      "text_retrieved": true,
+      "site_updated_date": "04/03/2026",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "QR Menyu tənzimlənməsi",
+      "url": "https://az.help.clopos.com/az/article/qr-menyu-tenzimlenmesi-9ez3zf/",
+      "text_retrieved": true,
+      "site_updated_date": "14/10/2025",
+      "used_in": [
+        "setup-modules.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "QR Menyuda məhsul görünürlüyü",
+      "url": "https://az.help.clopos.com/az/article/qr-menyuda-mehsul-gorunurluyu-lmd7dj/",
+      "text_retrieved": true,
+      "site_updated_date": "14/10/2025",
+      "used_in": [
+        "setup-modules.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "QR Menyuda Məhsula “Yeni” Etiketinin verilməsi",
+      "url": "https://az.help.clopos.com/az/article/qr-menyuda-mehsula-yeni-etiketinin-verilmesi-12nlghn/",
+      "text_retrieved": true,
+      "site_updated_date": "14/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "QR menyuya yeni məhsul əlavə etmək",
+      "url": "https://az.help.clopos.com/az/article/qr-menyuya-yeni-mehsul-elave-etmek-1ivtpik/",
+      "text_retrieved": true,
+      "site_updated_date": "14/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Reklam",
+      "url": "https://az.help.clopos.com/az/article/reklam-7yl2xz/",
+      "text_retrieved": true,
+      "site_updated_date": "14/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Satılmayan Məhsullar Hesabatı – Yeni Funksionallıq",
+      "url": "https://az.help.clopos.com/az/article/satilmayan-mehsullar-hesabati-yeni-funksionalliq-t7xx38/",
+      "text_retrieved": true,
+      "site_updated_date": "25/02/2026",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Satış - Çeklər",
+      "url": "https://az.help.clopos.com/az/article/satis-cekler-dia9s3/",
+      "text_retrieved": true,
+      "site_updated_date": "17/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Satış üsulları",
+      "url": "https://az.help.clopos.com/az/article/satis-usullari-1qj5yp1/",
+      "text_retrieved": true,
+      "site_updated_date": "17/10/2025",
+      "used_in": [
+        "finance.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Satış üsulunu necə yaratmaq olar?",
+      "url": "https://az.help.clopos.com/az/article/satis-usulunu-nece-yaratmaq-olar-116w2ul/",
+      "text_retrieved": true,
+      "site_updated_date": "21/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Sevimli list",
+      "url": "https://az.help.clopos.com/az/article/sevimli-list-1mq24ds/",
+      "text_retrieved": true,
+      "site_updated_date": "20/10/2025",
+      "used_in": [
+        "terminal-sales.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Silinmiş məhsulların bərpası",
+      "url": "https://az.help.clopos.com/az/article/silinmis-mehsullarin-berpasi-204jz5/",
+      "text_retrieved": true,
+      "site_updated_date": "27/02/2026",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Şöbə yaratmaq",
+      "url": "https://az.help.clopos.com/az/article/sobe-yaratmaq-xvwt7m/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Statistika → Filialların hesabatı",
+      "url": "https://az.help.clopos.com/az/article/statistika-filiallarin-hesabati-z1agak/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Statistika → Geri Qaytarılma",
+      "url": "https://az.help.clopos.com/az/article/statistika-geri-qaytarilma-k6rlql/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [
+        "reports.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Statistika-Modifikator",
+      "url": "https://az.help.clopos.com/az/article/statistika-modifikator-1iqtxyx/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Statistika → Müştərilər",
+      "url": "https://az.help.clopos.com/az/article/statistika-musteriler-11qn8qi/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Statistika→ QR Menyu",
+      "url": "https://az.help.clopos.com/az/article/statistika-qr-menyu-1j094ng/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Statistika→Əməkdaşlar",
+      "url": "https://az.help.clopos.com/az/article/statistikaemekdaslar-wkaxab/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Statistika→Kateqoriyalar",
+      "url": "https://az.help.clopos.com/az/article/statistikakateqoriyalar-sr0rtp/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Statistika→Masalar",
+      "url": "https://az.help.clopos.com/az/article/statistikamasalar-pg3cfw/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Statistika→Məhsullar",
+      "url": "https://az.help.clopos.com/az/article/statistikamehsullar-1k6mvbk/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [
+        "reports.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Statistika→Ödənişlər",
+      "url": "https://az.help.clopos.com/az/article/statistikaodenisler-12zmc6k/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [
+        "reports.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Statistika→Satış üsulları",
+      "url": "https://az.help.clopos.com/az/article/statistikasatis-usullari-154tpn9/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Statistika→Satışlar",
+      "url": "https://az.help.clopos.com/az/article/statistikasatislar-kp32cp/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Statistika→Şöbələr",
+      "url": "https://az.help.clopos.com/az/article/statistikasobeler-746dq4/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [
+        "reports.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Statistika→Vergilər",
+      "url": "https://az.help.clopos.com/az/article/statistikavergiler-o9nbwd/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Tarixçə",
+      "url": "https://az.help.clopos.com/az/article/tarixce-1096lgi/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Tədarük",
+      "url": "https://az.help.clopos.com/az/article/tedaruk-vdr5pu/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Tədarükçüyə borc ödəmək",
+      "url": "https://az.help.clopos.com/az/article/tedarukcuye-borc-odemek-1sjnua0/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [
+        "purchases.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Tədarükün geri qaytarılması",
+      "url": "https://az.help.clopos.com/az/article/tedarukun-geri-qaytarilmasi-1mourri/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [
+        "purchases.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Tədarükün import edilməsi",
+      "url": "https://az.help.clopos.com/az/article/tedarukun-import-edilmesi-1rx4woq/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Tərkiblərin əlavə edilməsi",
+      "url": "https://az.help.clopos.com/az/article/terkiblerin-elave-edilmesi-7aiqd4/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [
+        "menu-recipes.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Tərkiblərin Excel vasitəsi ilə daxil edilməsi",
+      "url": "https://az.help.clopos.com/az/article/terkiblerin-excel-vasitesi-ile-daxil-edilmesi-1vmqpp2/",
+      "text_retrieved": true,
+      "site_updated_date": "14/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Terminalda ödəniş növünü bölmək",
+      "url": "https://az.help.clopos.com/az/article/terminalda-odenis-novunu-bolmek-xwbhm/",
+      "text_retrieved": true,
+      "site_updated_date": "08/01/2026",
+      "used_in": [
+        "terminal-sales.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Tex.Karta əlavə etmək",
+      "url": "https://az.help.clopos.com/az/article/texkarta-elave-etmek-hqkcs0/",
+      "text_retrieved": true,
+      "site_updated_date": "03/12/2025",
+      "used_in": [
+        "menu-recipes.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Tex.karta və Hazır məhsul fərqi",
+      "url": "https://az.help.clopos.com/az/article/texkarta-ve-hazir-mehsul-ferqi-brgwk6/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [
+        "menu-recipes.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Ticarət əlavəsi və Ümumi marja",
+      "url": "https://az.help.clopos.com/az/article/ticaret-elavesi-ve-umumi-marja-zayb9l/",
+      "text_retrieved": true,
+      "site_updated_date": "17/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Toplu əməliyyat",
+      "url": "https://az.help.clopos.com/az/article/toplu-emeliyyat-y7um92/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Tullantı (İsraf)",
+      "url": "https://az.help.clopos.com/az/article/tullanti-israf-f5aptq/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [
+        "inventory.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "USB ilə qoşulan çek printer",
+      "url": "https://az.help.clopos.com/az/article/usb-ile-qosulan-cek-printer-1s1uxyp/",
+      "text_retrieved": true,
+      "site_updated_date": "20/10/2025",
+      "used_in": [
+        "setup-modules.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Variantlı hazır məhsulun excel ilə import edilməsi",
+      "url": "https://az.help.clopos.com/az/article/variantli-hazir-mehsulun-excel-ile-import-edilmesi-aljf8v/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Veb-kassir",
+      "url": "https://az.help.clopos.com/az/article/veb-kassir-1a6eo5i/",
+      "text_retrieved": true,
+      "site_updated_date": "20/10/2025",
+      "used_in": [
+        "setup-modules.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Vəzifələrə əlavə və dəyişikliklər etmək",
+      "url": "https://az.help.clopos.com/az/article/vezifelere-elave-ve-deyisiklikler-etmek-r5yaf6/",
+      "text_retrieved": true,
+      "site_updated_date": "17/10/2025",
+      "used_in": [
+        "setup-modules.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Xərc kateqoriyaları",
+      "url": "https://az.help.clopos.com/az/article/xerc-kateqoriyalari-zsb2cu/",
+      "text_retrieved": true,
+      "site_updated_date": "17/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Yarımfabrikat",
+      "url": "https://az.help.clopos.com/az/article/yarimfabrikat-14szyjt/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [
+        "menu-recipes.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "Yarımfabrikatların Excel vasitəsi ilə daxil edilməsi",
+      "url": "https://az.help.clopos.com/az/article/yarimfabrikatlarin-excel-vasitesi-ile-daxil-edilmesi-86qcr2/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Yeni tədarük yaratmaq",
+      "url": "https://az.help.clopos.com/az/article/yeni-tedaruk-yaratmaq-1tck5g1/",
+      "text_retrieved": true,
+      "site_updated_date": "17/04/2026",
+      "used_in": [
+        "purchases.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "🆕 Yenilik! Admin parolu artıq vəzifə üzərindən idarə olunur",
+      "url": "https://az.help.clopos.com/az/article/yenilik-admin-parolu-artiq-vezife-uzerinden-idare-olunur-1nlj4sy/",
+      "text_retrieved": true,
+      "site_updated_date": "30/07/2026",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "🆕 Yenilik! Bloklanmış məhsullar İcazə İdarəetməsi",
+      "url": "https://az.help.clopos.com/az/article/yenilik-bloklanmis-mehsullar-icaze-idareetmesi-g539zt/",
+      "text_retrieved": true,
+      "site_updated_date": "16/01/2026",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "YENİLİK - Maliyyə Hesabatı Paneli",
+      "url": "https://az.help.clopos.com/az/article/yenilik-maliyye-hesabati-paneli-wk61xj/",
+      "text_retrieved": true,
+      "site_updated_date": "31/10/2025",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "🆕Yenilik: Müştəri Ekranı Modulları Artıq Terminaldan İdarə Olunur",
+      "url": "https://az.help.clopos.com/az/article/yenilik-musteri-ekrani-modullari-artiq-terminaldan-idare-olunur-a66x42/",
+      "text_retrieved": true,
+      "site_updated_date": "23/04/2026",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "YENİLİK - P&L (Mənfəət və Zərər) hesabatı ilə bağlı dəyişikliklər",
+      "url": "https://az.help.clopos.com/az/article/yenilik-pl-menfeet-ve-zerer-hesabati-ile-bagli-deyisiklikler-19i3n8b/",
+      "text_retrieved": true,
+      "site_updated_date": "31/10/2025",
+      "used_in": [
+        "finance.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "🆕 Yenilik: Tədarükdə Ümumi Endirim və Vergi",
+      "url": "https://az.help.clopos.com/az/article/yenilik-tedarukde-umumi-endirim-ve-vergi-1uqz4ru/",
+      "text_retrieved": true,
+      "site_updated_date": "30/01/2026",
+      "used_in": [
+        "purchases.md"
+      ],
+      "images_reviewed": false
+    },
+    {
+      "title": "🆕 Yenilik! Xidmət haqqı artıq daha çevikdir",
+      "url": "https://az.help.clopos.com/az/article/yenilik-xidmet-haqqi-artiq-daha-cevikdir-1vk0bck/",
+      "text_retrieved": true,
+      "site_updated_date": "16/01/2026",
+      "used_in": [],
+      "images_reviewed": false
+    },
+    {
+      "title": "Zal və masaların yaradılması",
+      "url": "https://az.help.clopos.com/az/article/zal-ve-masalarin-yaradilmasi-ljdmyj/",
+      "text_retrieved": true,
+      "site_updated_date": "16/10/2025",
+      "used_in": [
+        "setup-modules.md"
+      ],
+      "images_reviewed": false
+    }
+  ]
+}

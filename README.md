@@ -1,6 +1,6 @@
 # Clopos Skill
 
-Clopos POS və arxa paneldə gündəlik əməliyyatlar üçün Azərbaycan dilində Codex skill-i. Qaimə, anbar, resept, maliyyə, hesabat, terminal və modul işlərini mövzuya uyğun istinadlarla dəstəkləyir.
+Clopos POS və arxa paneldə gündəlik əməliyyatlar üçün Azərbaycan dilində SI skill-i. Qaimə, anbar, resept, maliyyə, hesabat, terminal və modul işlərini mövzuya uyğun istinadlarla dəstəkləyir.
 
 **Müstəqil layihədir. Clopos tərəfindən hazırlanmış və ya təsdiqlənmiş rəsmi inteqrasiya deyil.** Skill Clopos-a giriş vermir; hesabda işləmək üçün ayrıca mövcud sessiya və uyğun alətlər lazımdır.
 

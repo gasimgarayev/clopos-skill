@@ -1,5 +1,12 @@
 # Buraxılışlar
 
+## 0.3.0 — 2026-11-19
+
+- Qaimə hesabının `Decimal` ilə yerli, yalnız oxuma rejimində yoxlanması; açıq yuvarlaqlaşdırma seçimi, naməlum sahə və vahid fərqi nəticələri.
+- Sintetik qaimə nümunəsi və hesab/komanda sətri üzrə avtomatik sınaqlar.
+- `--update` seçimi ilə tam ehtiyat nüsxəsi, əvvəlcədən yoxlanmış fayllarla yeniləmə və köçürmə xətasında bərpa.
+- Qaimə və anbar əməliyyatlarında ID/status/hərəkət əsasında tamamlanma yoxlamaları.
+
 ## 0.2.0 — 2026-11-19
 
 - Menyu, tərkib, yarımfabrikat, sayım və qiymət cədvəli importları üçün ayrıca bələdçi.

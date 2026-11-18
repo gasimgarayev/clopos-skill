@@ -18,6 +18,8 @@ Sayım Excel-dən daxil edilirsə [import bələdçisindəki](imports.md) addım
 
 **İnventar → Köçürmələr**: mənbə/hədəf anbar, tarix, məhsul ID/vahid/miqdarını müəyyənləşdir. Başlanğıc qalıqları qeyd et, bir köçürmə yarat və hər iki tərəfdə hərəkəti yoxla. Tədarük və tullantı ilə saxta transfer yaratma. Tarix bloku varsa faktiki vaxtı dəyişməklə keçmə. Məhsulu sayım siyahısından çıxarmaq fiziki qalığı köçürmür. [Köçürmə](https://az.help.clopos.com/az/article/kocurme-792zr/)
 
+Eyni vaxtda satış davam edirsə əvvəl/sonra ümumi qalığın fərqi təkcə bu köçürmədən yaranmaya bilər. Düzgün yoxlama üçün sənəd ID-sinə aid çıxış və giriş hərəkətlərini, vahidi, əməliyyat vaxtını və hər iki anbarı tutuşdur. Tək tərəfdə uğurlu bildiriş bütün köçürmənin yoxlanması deyil. [Hərəkət detalları](https://az.help.clopos.com/az/article/mehsul-hereketleri-3ytx7/)
+
 ## İstehsalat və tullantı
 
 **İnventar → İstehsalat** çıxışa uyğun xammalı azaldıb yarımfabrikatı artırır. Sonrakı satış silinməsi ehtiyatdan və kartın rejimindən asılıdır. “İstehsal olunubsa həmişə yalnız yarımfabrikat azalır” demə; [resept istinadını](menu-recipes.md) yoxla. [İstehsalat](https://az.help.clopos.com/az/article/istehsalat-1ltvw4d/)

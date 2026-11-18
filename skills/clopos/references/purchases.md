@@ -4,6 +4,8 @@
 
 Mənbə sənədin tarixini, nömrəsini, tədarükçüsünü, anbarını və cəmini çıxar. Hər sətir üçün orijinal adı, Clopos ID-sini, miqdar/vahidi, vahid qiymətini, endirim/vergi məlumatını və sətir cəmini tutuşdur. Sətir cəmini vahid qiyməti yerinə yazma. Məbləğləri qəpik dəqiqliyində yoxla; uyğunsuzluğu qiymət dəyişərək gizlətmə.
 
+Çoxsətirli hesab yoxlaması üçün [yerli qaimə yoxlayıcısını](purchase-checker.md) istifadə edə bilərsən. Yalnız mənbədən təsdiqlənmiş rəqəmləri daxil et; bu köməkçinin uğurlu nəticəsi ödəniş və ya məhsul uyğunluğunu təsdiqləmir.
+
 Qablaşdırmanın əsas vahidə çevrilməsini əvvəl yoxla. Sintetik nümunə: 3 qutu × 12 ədəd = 36 ədəd; qutu qiyməti 18 ₼ olduqda cəm 54 ₼, əsas vahid qiyməti 1.50 ₼ olar. UI-də qablaşdırma seçilibsə çevrilməni ikinci dəfə tətbiq etmə. Qutu tərkibi və ya ədəd çəkisi məlum deyilsə fərz etmə. [Qablaşdırma](https://az.help.clopos.com/az/article/qablasdirma-14juc4a/)
 
 Eyni qaiməni tədarükçü, sənəd nömrəsi, əməliyyat tarixi, cəm və məhsullar üzrə mövcud qeydlərlə müqayisə et. Təkcə eyni məbləğ dublikatın sübutu deyil. Mövcud qaralamanı tapdıqda onu davam etdirmək ilə yenisini yaratmaq arasındakı fərqi nəzərə al.
@@ -25,3 +27,14 @@ Rəsmi təlimatda tədarükçü bölməsindən qismən ödəniş, konkret tədar
 İlkin tədarükün ID-sini tap. Qaytarılan məhsul, miqdar, anbar, qiymət və pulun qayıdacağı hesabı və ya borc düzəlişini ayır. Avtomatik son qiyməti razılaşdırılmış qaytarma qiyməti ilə yoxla. Qaytarma ID-sini ilkin tədarükün ID-si ilə birlikdə saxla. [Tədarükün qaytarılması](https://az.help.clopos.com/az/article/tedarukun-geri-qaytarilmasi-1mourri/)
 
 Videolar: [tədarük](https://www.youtube.com/watch?v=qSJwV75v3u4), [qaytarma](https://www.youtube.com/watch?v=Lp3jgPC1L9Q). Avtomatik türk transkriptləri xətalıdır; dəqiq sahələr üçün yazılı mənbə və cari formanı əsas götür.
+
+## Tamamlanmanı sübut etmək
+
+| İstənilən nəticə | Nəyi yenidən yoxlamalısan |
+| --- | --- |
+| Qaralama hazırlanıb | Sənəd ID-si, qaralama statusu, sətirlər və yekun məbləğ |
+| Tədarük tətbiq edilib | Təsdiq statusu və həmin sənədə aid məhsul hərəkəti |
+| Ödəniş qeydə alınıb | Ödəniş ID-si, hesab, tarix, məbləğ və qalan borc |
+| Qaytarma edilib | İlkin sənəd, qaytarma ID-si, miqdar və hesab/borc təsiri |
+
+Bu cədvəl skillin icra yoxlamasıdır, Clopos-da yeni status adları yaratmır. Müstəqil tədarükçü balansı ilə konkret qaimənin bağlanmasını eyniləşdirmə. İcra nəticəsi hələ emaldadırsa “tamamlandı” yazma. Yekun hesabın uyğunluğu sətirlərin düzgün məhsula bağlandığını sübut etmir.

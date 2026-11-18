@@ -1525,7 +1525,8 @@
       "used_in": [
         "inventory.md"
       ],
-      "images_reviewed": false
+      "images_reviewed": false,
+      "last_checked_at": "2026-11-19"
     },
     {
       "title": "Məhsula xidmət haqqının hesablanmaması",
@@ -1997,7 +1998,8 @@
       "used_in": [
         "purchases.md"
       ],
-      "images_reviewed": false
+      "images_reviewed": false,
+      "last_checked_at": "2026-11-19"
     },
     {
       "title": "Tədarükün geri qaytarılması",

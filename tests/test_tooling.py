@@ -6,6 +6,7 @@ import shutil
 import sys
 import tempfile
 import unittest
+from unittest.mock import patch
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -99,6 +100,54 @@ class InstallerTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             install(self.source, link)
         self.assertEqual((self.source / 'SKILL.md').read_text(encoding='utf-8'), 'original')
+
+    def test_explicit_update_retains_all_old_files_and_local_edits(self):
+        install(self.source, self.dest)
+        (self.dest / 'SKILL.md').write_text('local edits', encoding='utf-8')
+        (self.dest / 'private.txt').write_text('keep me', encoding='utf-8')
+        previous = files(self.dest)
+        (self.source / 'SKILL.md').write_text('new version', encoding='utf-8')
+        install(self.source, self.dest, update=True)
+        backups = list(self.dest.parent.glob('.clopos-backup-*'))
+        self.assertEqual(len(backups), 1)
+        self.assertEqual(files(backups[0]), previous)
+        self.assertEqual(files(self.dest), files(self.source))
+
+    def test_update_dry_run_changes_nothing_and_creates_no_backup(self):
+        install(self.source, self.dest)
+        previous = files(self.dest)
+        (self.source / 'SKILL.md').write_text('new version', encoding='utf-8')
+        install(self.source, self.dest, dry_run=True, update=True)
+        self.assertEqual(files(self.dest), previous)
+        self.assertEqual(list(self.dest.parent.glob('.clopos-backup-*')), [])
+
+    def test_failed_update_restores_the_installed_version(self):
+        install(self.source, self.dest)
+        previous = files(self.dest)
+        (self.source / 'SKILL.md').write_text('new version', encoding='utf-8')
+        real_rename = Path.rename
+
+        def fail_staged_move(path, target):
+            if path.parent.name.startswith('.clopos-stage-'):
+                raise OSError('simulated rename failure')
+            return real_rename(path, target)
+
+        with patch.object(Path, 'rename', fail_staged_move):
+            with self.assertRaisesRegex(OSError, 'simulated'):
+                install(self.source, self.dest, update=True)
+        self.assertEqual(files(self.dest), previous)
+        self.assertEqual(list(self.dest.parent.glob('.clopos-backup-*')), [])
+
+    def test_nested_source_and_destination_rejected(self):
+        with self.assertRaisesRegex(ValueError, 'contain one another'):
+            install(self.source, self.source / 'nested')
+        self.assertFalse((self.source / 'nested').exists())
+
+    def test_nested_symlinks_are_not_copied(self):
+        (self.source / 'link').symlink_to(self.source / 'SKILL.md')
+        with self.assertRaisesRegex(ValueError, 'symlink'):
+            install(self.source, self.dest)
+        self.assertFalse(self.dest.exists())
 
 
 if __name__ == '__main__':

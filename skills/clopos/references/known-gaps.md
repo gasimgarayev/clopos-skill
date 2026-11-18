@@ -26,4 +26,6 @@ Mənfəətin dəqiq düsturları və bəzi import nümunələri məqalə şəkil
 
 Bu buraxılışda real Clopos hesabında yazma, ödəniş, inventar təsdiqi və cihaz sazlama sınağı aparılmayıb. Qiymətlər, paket limitləri, menyu yolları və cihaz portları canlı yoxlanmalıdır. Mənbə yenilənmə tarixini hesabın cari versiyası ilə eyniləşdirmə.
 
+Yerli qaimə yoxlayıcısının avtomatik sınaqları sintetik məlumatlarla hesab uyğunluğunu yoxlayır. `arithmetic_match` Clopos-da məhsulun seçilməsi, sənədin təsdiqi və ya pul ödənişinin uğuru demək deyil. [Yoxlayıcının sərhədləri](purchase-checker.md)
+
 Paketdə orijinal təlimatlar, ictimai mənbə metadatası və uydurma yoxlama nümunələri var; restoran hesabı məlumatı və xam transkript yoxdur.

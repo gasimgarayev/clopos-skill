@@ -14,6 +14,7 @@ Yalnız iş üçün lazım olan istinadı oxu:
 | Tapşırıq | İstinad |
 | --- | --- |
 | Qaimə, alış, tədarükçü borcu, alışın qaytarılması | [purchases.md](references/purchases.md) |
+| Qaimənin sətir və yekun hesabını yerli yoxlamaq | [purchase-checker.md](references/purchase-checker.md) |
 | Qalıq, sayım, transfer, istehsalat, tullantı | [inventory.md](references/inventory.md) |
 | Məhsul, inqrediyent, resept, tex.karta, yarımfabrikat, modifikator | [menu-recipes.md](references/menu-recipes.md) |
 | Maliyyə hesabları, kateqoriyalar, əməkhaqqı, ödəniş əlaqələri | [finance.md](references/finance.md) |

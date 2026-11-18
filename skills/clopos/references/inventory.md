@@ -12,7 +12,7 @@ Sayımın anbarını və tamamlandığı vaxtı dəqiqləşdir. Birinci mərhəl
 
 Gözlənilən, faktiki və hazırlamadan gələn miqdarları tutuşdur. Boş xananı təsdiqlənmiş sıfır sayma. Fərqin işarəsini cari sütun tərifindən oxu. Qaralama yaddaşı qalıqlara tətbiq edilməmiş nəticədir; yoxlamanın təsdiqi ayrıca addımdır. Sonrakı sayım əvvəlki sənədin ləğvinə məhdudiyyət yarada bilər. [İnventarlaşdırma](https://az.help.clopos.com/az/article/inventarlasdirma-14dblgq/)
 
-İmport üçün cari sayımın eksportunu şablon götür. Təlimat ID, məhsul və `Quantity` sahələrini, hər addıma ayrıca bir vərəqli importu göstərir. ID-ləri və digər addımın miqdarını dəyişmə; faylın hansı addıma aid olduğunu adında göstər. Faktiki şablon başlıqlarını yoxla. [Sayım importu](https://az.help.clopos.com/az/article/inventarlasdirmanin-import-edilmesi-tqw8sv/)
+Sayım Excel-dən daxil edilirsə [import bələdçisindəki](imports.md) addım/vərəq qaydasını və ID-lərin qorunmasını yoxla.
 
 ## Köçürmə
 

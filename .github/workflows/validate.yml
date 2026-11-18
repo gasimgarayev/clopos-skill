@@ -17,6 +17,8 @@ jobs:
         with:
           persist-credentials: false
       - name: Check package integrity
-        run: python3 scripts/validate.py
+        run: python3 -B scripts/validate.py
+      - name: Test validator and installer
+        run: python3 -B -m unittest discover -s tests -v
       - name: Check installer without writing
         run: python3 scripts/install.py --dry-run --dest "$RUNNER_TEMP/clopos-skill-check"

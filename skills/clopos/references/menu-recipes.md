@@ -35,4 +35,4 @@ Sabit tərkibi müştərinin seçdiyi variantdan ayır. Qrupun tək/çox seçim 
 
 Sıfır mayada növ, faktiki alış qiyməti, vahid, çıxış, tərkib zənciri və silinməni araşdır. Porsiya mayası üçün eyni əsasda miqdar × vahid maya hesabını tutuşdur. Mayanı düzəltmək adı ilə satış qiyməti və alış tarixçəsini dəyişmə.
 
-Toplu importda cari bölmənin şablonunu əldə et. Ad/vahid yazılışı dublikat yarada bilər; ID dəstəklənirsə istifadə et. Başqa import növünün sütunlarını köçürmə. Rəsmi nümunələrdə vahid kodları da fərqlənir; canlı şablonu əsas götür. Faylı hazırlamaq importu icra etməkdən ayrıdır. [Import nümunələri](https://az.help.clopos.com/az/article/menyu-excel-import-numuneleri-191rvtu/)
+Menyu və tərkib importunda [import bələdçisini](imports.md) oxu: valideyn/tərkib ardıcıllığını, qiymət sahələrini və vahid kodlarını orada yoxla.

@@ -20,6 +20,7 @@ Yalnız iş üçün lazım olan istinadı oxu:
 | Satış, maya, şöbə, filial, dövr və eksport üzrə hesabat | [reports.md](references/reports.md) |
 | Çek, bölünmüş ödəniş, geri qaytarma, müştəri balansı, stop-list | [terminal-sales.md](references/terminal-sales.md) |
 | İcazələr, zal/masa, QR menyu, qiymət cədvəli, printer, e-kassa, Waiter | [setup-modules.md](references/setup-modules.md) |
+| Excel importu: menyu, tərkib, yarımfabrikat, sayım və qiymət cədvəli | [imports.md](references/imports.md) |
 | Video axtarışı, təlimin mənşəyi, mənbə əhatəsi | [source-guide.md](references/source-guide.md) və [video-catalog.md](references/video-catalog.md) |
 | Mənbələr ziddiyyətlidir və ya təlim çatışmır | [known-gaps.md](references/known-gaps.md) |
 

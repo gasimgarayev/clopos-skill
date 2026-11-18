@@ -16,7 +16,7 @@ Xidmət haqqının faiz dəyəri, avtomatik tətbiqi, satış üsuluna aid qayda
 
 Modulun quraşdırılmış olması, statusunun aktivliyi, filial/satış üsulu xəritəsi və məhsulun cədvəl qiyməti ayrı yoxlanır. Satış üsuluna təyin olunmuş xüsusi qiymət cədvəli filialın ümumi seçimindən fərqlənə bilər. Aktivləşdirmə ödənişli xidmət yarada bilər: cari şərti oxu, köhnə videodakı abunə qiymətini hazır qiymət kimi vermə və istifadəçinin əhatə etmədiyi abunəni qoşma. [Qiymət cədvəlləri](https://az.help.clopos.com/az/article/qiymet-cedvelleri-ferqli-qiymet-strategiyalari-yaratmaq-1ovx44r/)
 
-Qiymət cədvəlinin Excel importunda 2026-cı il yazılı təlimatı `product_id` və `price` sütunlarını göstərir. Faylı yalnız seçilmiş cədvələ import et; başqa qiymət importuna bu sxemi şamil etmə. [Import](https://az.help.clopos.com/az/article/qiymet-cedvellerinin-excel-ile-import-edilmesi-1tlzp25/)
+Qiymət cədvəlini Excel ilə yeniləyəndə [import bələdçisindəki](imports.md) sxem və hədəf cədvəl yoxlamasını tətbiq et.
 
 Veb-kassa arxa paneldən satış yaradır və maliyyə/anbar təsiri daşıyır. Çekin hansı maliyyə hesabına getməsi ödəmə üsuluna bağlıdır; ayrıca hesab istəyinə uyğun xəritəni yoxla. Təlim üçün saxta real satış yaratma. [Veb-kassir](https://az.help.clopos.com/az/article/veb-kassir-1a6eo5i/), [video 0:43–1:03 və 6:11–8:38](https://www.youtube.com/watch?v=TDrwpODuV2Y&t=43s)
 

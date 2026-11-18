@@ -2,6 +2,8 @@
 
 Araşdırma tarixi: **2026-11-17**. Bu paket müstəqil hazırlanıb; Clopos tərəfindən təsdiqlənmiş rəsmi məhsul deyil.
 
+2026-11-19 tarixli yeniləmədə yalnız import bələdçisinin üç mənbəsi təkrar yoxlanıb; məqalə səviyyəsində `last_checked_at` reyestrdə saxlanır. Bu tarix bütün video və məqalələrin yenidən yoxlandığı mənasına gəlmir. [Import bələdçisi](imports.md)
+
 ## Sübut səviyyələri
 
 - Cari hesabda müşahidə: yalnız həmin sessiya, filial və tarix üçün canlı yoxlamadır. Bu buraxılışda canlı hesab əməliyyatları yoxlanmayıb.

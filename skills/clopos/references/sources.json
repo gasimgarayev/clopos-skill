@@ -1428,9 +1428,10 @@
       "text_retrieved": true,
       "site_updated_date": "16/10/2025",
       "used_in": [
-        "inventory.md"
+        "imports.md"
       ],
-      "images_reviewed": false
+      "images_reviewed": false,
+      "last_checked_at": "2026-11-19"
     },
     {
       "title": "İstehsalat",
@@ -1596,9 +1597,10 @@
       "text_retrieved": true,
       "site_updated_date": "14/10/2025",
       "used_in": [
-        "menu-recipes.md"
+        "imports.md"
       ],
-      "images_reviewed": false
+      "images_reviewed": false,
+      "last_checked_at": "2026-11-19"
     },
     {
       "title": "Menyu quruluşu",
@@ -1716,9 +1718,10 @@
       "text_retrieved": true,
       "site_updated_date": "01/07/2026",
       "used_in": [
-        "setup-modules.md"
+        "imports.md"
       ],
-      "images_reviewed": false
+      "images_reviewed": false,
+      "last_checked_at": "2026-11-19"
     },
     {
       "title": "QR Kodla Masadan Sifariş",

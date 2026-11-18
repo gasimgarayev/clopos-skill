@@ -2,6 +2,7 @@
 """Offline integrity checks; this does not test Clopos behavior."""
 import json
 import re
+from datetime import date
 from pathlib import Path
 from urllib.parse import urlsplit
 
@@ -9,6 +10,18 @@ from urllib.parse import urlsplit
 def require(condition, message):
     if not condition:
         raise ValueError(message)
+
+
+def workflow_citations(references):
+    """Map primary-source URLs to the operational guides that cite them."""
+    result = {}
+    catalog_files = {'video-catalog.md', 'known-gaps.md', 'source-guide.md'}
+    for md in references.glob('*.md'):
+        if md.name in catalog_files:
+            continue
+        for url in re.findall(r'https://az\.help\.clopos\.com/az/article/[^\s)]+', md.read_text(encoding='utf-8')):
+            result.setdefault(url, set()).add(md.name)
+    return result
 
 
 def validate(root):
@@ -38,6 +51,7 @@ def validate(root):
             require(path.exists(), f'Broken local link: {md}: {target}')
 
     registry = json.loads((skill / 'references/sources.json').read_text(encoding='utf-8'))
+    retrieved_at = date.fromisoformat(registry['retrieved_at'])
     videos, playlists, articles = (registry[key] for key in ('videos', 'playlists', 'help_articles'))
     ids = {v['id'] for v in videos}
     require(len(ids) == len(videos), 'Duplicate video IDs')
@@ -75,9 +89,13 @@ def validate(root):
             require(url in article_urls, f'Unregistered help article: {url}')
         for video_id in re.findall(r'youtube\.com/watch\?v=([\w-]{11})', text):
             require(video_id in ids, f'Unregistered video: {video_id}')
+    citations = workflow_citations(skill / 'references')
     for a in articles:
-        for file in a['used_in']:
-            require(a['url'] in (skill / 'references' / file).read_text(encoding='utf-8'), 'Article citation drift')
+        declared = a['used_in']
+        require(len(declared) == len(set(declared)), f"Duplicate citation locations: {a['url']}")
+        require(set(declared) == citations.get(a['url'], set()), f"Article citation drift: {a['url']}")
+        if 'last_checked_at' in a:
+            require(date.fromisoformat(a['last_checked_at']) >= retrieved_at, f"Recheck precedes retrieval: {a['url']}")
 
     cases = json.loads((root / 'evals/cases.json').read_text(encoding='utf-8'))
     require(len({c['id'] for c in cases}) == len(cases), 'Duplicate evaluation IDs')

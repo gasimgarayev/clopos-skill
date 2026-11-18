@@ -1,9 +1,6 @@
 # Clopos Skill
 
 Clopos POS və arxa paneldə gündəlik əməliyyatlar üçün Azərbaycan dilində SI skill-i. Qaimə, anbar, resept, maliyyə, hesabat, terminal və modul işlərini mövzuya uyğun istinadlarla dəstəkləyir.
-
-
-
 ## Quraşdırma
 
 Reponu endirib quraşdırın:
@@ -28,6 +25,7 @@ $clopos Bu qaimənin sətirlərini uyğun məhsullarla tutuşdur və qaralama ha
 $clopos Bu yarımfabrikatın çıxışını və porsiya mayasını yoxla.
 $clopos Seçilmiş dövr üçün şöbə satışlarını ümumi cəmlə uzlaşdır.
 $clopos Bu məhsulun QR menyuda niyə görünmədiyini yoxla.
+$clopos Bu qiymət cədvəli importunu ID-lər və sütunlar üzrə yoxla.
 ```
 
 Hesab/filial, tarix, vahid və ödəniş məlumatı mövcud kontekstdən götürülür; çatışmayan hissə təxmin edilmir. Sənədin hazırlanması, təsdiqi və ödənişi ayrı nəticələr kimi izlənir. Əvvəl verilmiş icazə təkrar soruşulmur.
@@ -38,7 +36,7 @@ Hesab/filial, tarix, vahid və ödəniş məlumatı mövcud kontekstdən götür
 skills/clopos/
   SKILL.md                   # Qısa giriş, marşrutlama və icra qaydaları
   agents/openai.yaml         # Skill siyahısında görünən məlumat
-  references/                # 7 iş istiqaməti, mənbələr və məhdudiyyətlər
+  references/                # İş istiqamətləri, Excel importu və mənbələr
 scripts/
   validate.py                # Paket bütövlüyü və mənbə əhatəsi
   install.py                 # Üzərinə yazmadan yerli quraşdırma
@@ -49,6 +47,8 @@ evals/cases.json              # Sintetik davranış yoxlama ssenariləri
 ## Yoxlama və töhfə
 
 `python3 scripts/validate.py` daxili keçidləri, skill metadatasını, mənbə reyestrinin saylarını və ssenari quruluşunu yoxlayır. Bu yoxlama Clopos-da işin düzgün icra edildiyini sübut etmir. [Davranış ssenariləri](evals/README.md) ayrıca, canlı dəyişiklik etmədən işlədilməlidir.
+
+Yoxlayıcı və quraşdırıcının avtomatik sınaqları: `python3 -B -m unittest discover -s tests -v`.
 
 Məhsul qaydası dəyişəndə rəsmi URL-ni, tarixini və sübut səviyyəsini qeyd edin. Mətnin əldə edilməsini vizual yoxlama kimi işarələməyin. Mənbə tamlığına yeni sübut olmadan iddia əlavə etməyin.
 

@@ -1,5 +1,12 @@
 # Buraxılışlar
 
+## 0.4.0 — 2026-11-21
+
+- Resept snapshot-ları üçün yerli yoxlayıcı: naməlum/sıfır miqdar, çıxış və bildirilmiş maya, boş tərkib, təkrarlanan ID və komponentlər.
+- `Decimal` ilə g/kg və ml/l çevrilməsi; uyğunsuz vahidlərdə çəki və sıxlıq fərz edilmir.
+- Çatışmayan kartlar və özünə qayıdan yarımfabrikat əlaqələri üçün JSON yolu və kart ID-ləri ilə tapıntılar.
+- Sintetik resept nümunəsi, giriş sxemi, məhdudiyyətlər və uzun zəncir/CLI daxil avtomatik sınaqlar.
+
 ## 0.3.0 — 2026-11-19
 
 - Qaimə hesabının `Decimal` ilə yerli, yalnız oxuma rejimində yoxlanması; açıq yuvarlaqlaşdırma seçimi, naməlum sahə və vahid fərqi nəticələri.

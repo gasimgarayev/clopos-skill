@@ -17,6 +17,7 @@ Yalnız iş üçün lazım olan istinadı oxu:
 | Qaimənin sətir və yekun hesabını yerli yoxlamaq | [purchase-checker.md](references/purchase-checker.md) |
 | Qalıq, sayım, transfer, istehsalat, tullantı | [inventory.md](references/inventory.md) |
 | Məhsul, inqrediyent, resept, tex.karta, yarımfabrikat, modifikator | [menu-recipes.md](references/menu-recipes.md) |
+| Resept faylında vahid, boş tərkib və yarımfabrikat əlaqələrini yerli yoxlamaq | [recipe-checker.md](references/recipe-checker.md) |
 | Maliyyə hesabları, kateqoriyalar, əməkhaqqı, ödəniş əlaqələri | [finance.md](references/finance.md) |
 | Satış, maya, şöbə, filial, dövr və eksport üzrə hesabat | [reports.md](references/reports.md) |
 | Çek, bölünmüş ödəniş, geri qaytarma, müştəri balansı, stop-list | [terminal-sales.md](references/terminal-sales.md) |

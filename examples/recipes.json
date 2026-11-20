@@ -1,0 +1,42 @@
+{
+  "currency": "AZN",
+  "cards": [
+    {
+      "id": "demo-flour",
+      "type": "INGREDIENT",
+      "unit": "kg",
+      "output_quantity": null,
+      "reported_unit_cost": "2.00",
+      "contents": []
+    },
+    {
+      "id": "demo-water",
+      "type": "INGREDIENT",
+      "unit": "l",
+      "output_quantity": null,
+      "reported_unit_cost": "0.10",
+      "contents": []
+    },
+    {
+      "id": "demo-dough",
+      "type": "PREPARATION",
+      "unit": "kg",
+      "output_quantity": "1.5",
+      "reported_unit_cost": "1.37",
+      "contents": [
+        {"component_id": "demo-flour", "gross_quantity": "1000", "unit": "g"},
+        {"component_id": "demo-water", "gross_quantity": "500", "unit": "ml"}
+      ]
+    },
+    {
+      "id": "demo-bread",
+      "type": "DISH",
+      "unit": "pcs",
+      "output_quantity": "1",
+      "reported_unit_cost": "0.41",
+      "contents": [
+        {"component_id": "demo-dough", "gross_quantity": "300", "unit": "g"}
+      ]
+    }
+  ]
+}

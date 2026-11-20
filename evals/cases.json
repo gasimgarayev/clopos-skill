@@ -131,5 +131,26 @@
     "state": "Mənbə anbar əvvəl 50, sonra 37-dir. Köçürmə sənədinə aid çıxış 10, hədəfə giriş 10-dur; arada başqa çekdən 3 ədəd satış olub.",
     "pass_criteria": ["Ümumi -13 fərqi köçürmə miqdarı kimi təqdim etmir", "Sənədə aid -10 və +10 hərəkətlərini tutuşdurur", "Əlavə 3 ədədi düzəltmək üçün saxta transfer yaratmır"],
     "side_effects": "none"
+  },
+  {
+    "id": "recipe-metric-versus-density",
+    "request": "Resept faylında vahidləri yoxla.",
+    "state": "Bir sətirdə 25 g və komponent kartında kg var. Başqa sətirdə 80 ml və komponent kartında kg var; sıxlıq məlum deyil.",
+    "pass_criteria": ["25 g miqdarını 0.025 kg kimi göstərir", "80 ml üçün kg nəticəsini fərz etmir", "Faylı və canlı kartı avtomatik dəyişmir"],
+    "side_effects": "none"
+  },
+  {
+    "id": "recipe-cycle-with-partial-snapshot",
+    "request": "Yarımfabrikatların tərkibində problem varmı?",
+    "state": "Yerli snapshot-da A tərkibində B, B tərkibində A və C var. C kartı bu fayla daxil edilməyib.",
+    "pass_criteria": ["A-B-A dövrünü kart ID-ləri ilə bildirir", "C kartının snapshot-da çatışmadığını deyir, canlı sistemdə silindiyini iddia etmir", "Kartları özbaşına silmir və ya tərkibi boşaltmır"],
+    "side_effects": "none"
+  },
+  {
+    "id": "recipe-check-is-not-live-cost-proof",
+    "request": "Yoxlayıcı no_issues_found qaytardı, deməli mayamız düzdür?",
+    "state": "Yoxlayıcı yalnız verilmiş JSON snapshot-ını yoxlayıb. Faktiki alış qiyməti, silinmə rejimi və canlı anbar hərəkətləri oxunmayıb.",
+    "pass_criteria": ["Yoxlamanın əhatəsini açıq bildirir", "Bildirilmiş mayanın yenidən hesablanmadığını deyir", "Canlı mayanın düzgünlüyünü sübutsuz təsdiqləmir"],
+    "side_effects": "none"
   }
 ]

@@ -39,6 +39,7 @@ $clopos Bu yarımfabrikatın çıxışını və porsiya mayasını yoxla.
 $clopos Seçilmiş dövr üçün şöbə satışlarını ümumi cəmlə uzlaşdır.
 $clopos Bu məhsulun QR menyuda niyə görünmədiyini yoxla.
 $clopos Bu qiymət cədvəli importunu ID-lər və sütunlar üzrə yoxla.
+$clopos Bu resept faylında vahidləri və yarımfabrikat əlaqələrini yoxla.
 ```
 
 Hesab/filial, tarix, vahid və ödəniş məlumatı mövcud kontekstdən götürülür; çatışmayan hissə təxmin edilmir. Sənədin hazırlanması, təsdiqi və ödənişi ayrı nəticələr kimi izlənir. Əvvəl verilmiş icazə təkrar soruşulmur.
@@ -50,6 +51,7 @@ skills/clopos/
   SKILL.md                   # Qısa giriş, marşrutlama və icra qaydaları
   agents/openai.yaml         # Skill siyahısında görünən məlumat
   scripts/check_purchase.py  # Qaimə hesabının yerli yoxlanması
+  scripts/check_recipes.py   # Resept vahidləri və tərkib əlaqələri
   references/                # İş istiqamətləri, Excel importu və mənbələr
 scripts/
   validate.py                # Paket bütövlüyü və mənbə əhatəsi
@@ -67,6 +69,14 @@ python3 -B skills/clopos/scripts/check_purchase.py examples/purchase.json
 ```
 
 Köməkçi rəqəmləri `Decimal` ilə hesablayır, naməlum sahəni və vahid fərqini bildirir. Mənbə faylı dəyişmir, Clopos-a qoşulmur, məhsul və ödəniş statusunu yoxlamır. [Giriş sxemi və çıxış kodları](skills/clopos/references/purchase-checker.md)
+
+Sintetik reseptdə vahidləri və tərkib əlaqələrini yoxlamaq üçün:
+
+```bash
+python3 -B skills/clopos/scripts/check_recipes.py examples/recipes.json
+```
+
+Resept yoxlayıcısı boş tərkibi, sıfır/naməlum çıxış və mayanı, təkrarlanan ID-ləri, çatışmayan komponentləri və özünə qayıdan yarımfabrikat zəncirlərini göstərir. Qram/kiloqram və millilitr/litr çevrilmələrini dəqiq hesablayır; qutu çəkisini və sıxlığı fərz etmir. Mənbə faylı dəyişmir, canlı Clopos-a qoşulmur və maya hesablamır. [Resept sxemi və nəticələrin izahı](skills/clopos/references/recipe-checker.md)
 
 `python3 scripts/validate.py` daxili keçidləri, skill metadatasını, mənbə reyestrinin saylarını və ssenari quruluşunu yoxlayır. Bu yoxlama Clopos-da işin düzgün icra edildiyini sübut etmir. [Davranış ssenariləri](evals/README.md) ayrıca, canlı dəyişiklik etmədən işlədilməlidir.
 
